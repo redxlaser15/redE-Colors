@@ -1,0 +1,9 @@
+type: Wall
+name: Orange Block
+description: An orange colored block.
+health: 1
+requirements: [
+  copper/1
+]
+size: 1
+category: defense

@@ -1,0 +1,9 @@
+type: Wall
+name: Light Orange Block
+description: A light orange colored block.
+health: 1
+requirements: [
+  copper/1
+]
+size: 1
+category: defense

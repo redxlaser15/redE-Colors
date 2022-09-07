@@ -1,0 +1,9 @@
+type: Wall
+name: Light Red Block
+description: A l;ight red colored block.
+health: 25
+requirements: [
+  copper/1
+]
+size: 1
+category: defense

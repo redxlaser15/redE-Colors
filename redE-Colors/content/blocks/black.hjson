@@ -1,0 +1,10 @@
+type: Wall
+name: Black
+description: A black colored block.
+health: 1
+requirements: [
+  copper/1
+]
+size: 1
+category: defense
+buildVisibility: sandboxOnly

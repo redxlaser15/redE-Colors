@@ -1,0 +1,9 @@
+type: Wall
+name: Green Block
+description: A green colored block.
+health: 1
+requirements: [
+  copper/1
+]
+size: 1
+category: defense

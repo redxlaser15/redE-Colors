@@ -1,0 +1,9 @@
+type: Wall
+name: Dark Yellow Block
+description: A dark yellow colored block.
+health: 1
+requirements: [
+  copper/1
+]
+size: 1
+category: defense

@@ -1,0 +1,9 @@
+type: Wall
+name: White Block
+description: A white colored block.
+health: 1
+requirements: [
+  copper/1
+]
+size: 1
+category: defense

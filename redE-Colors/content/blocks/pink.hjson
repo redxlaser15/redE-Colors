@@ -1,0 +1,9 @@
+type: Wall
+name: Pink Block
+description: A pink colored block.
+health: 1
+requirements: [
+  copper/1
+]
+size: 1
+category: defense

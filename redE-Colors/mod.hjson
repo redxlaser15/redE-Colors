@@ -1,0 +1,7 @@
+name: "rede-color"
+displayName: "red's Color Pallet"
+author: "redxlaser15"
+description: "Adds colored walls into the game, for use in pixel art projects.
+These blocks cannot be research and therefor not unlockable in the campaign. This is to help avoid any exploits that might occur from it."
+version: "1.0"
+minGameVersion: "121"
